@@ -19,7 +19,7 @@
     "rollup-plugin-bundle-html": "^0.2.2",
     "rollup-plugin-copy": "^3.4.0",
     "rollup-plugin-serve": "^1.1.0",
-    "shaka-player": "^3.3.2"
+    "shaka-player": "^3.3.19"
   },
   "devDependencies": {
     "@babel/core": "^7.6.4",
